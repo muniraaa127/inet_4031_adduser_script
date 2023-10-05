@@ -33,7 +33,6 @@ The name of the input file is up to the user.  Convention is create-users.input
 
 ### Running the Script
 Before you run the script make sure have python 3 installed. In order to run this code open a terminal and ensure that you are in the correct directory and that both the python script create-users and create-users.input are in the directory, you then can either run the command
-sudo ./create-users.py < create-users.input  or $ cat create-users.input | sudo ./create-users.py  
-either command will work as both commands use the contents from the input file as an input to the 
+sudo ./create-users.py < create-users.input  or $ cat create-users.input | sudo ./create-users.py either command will work as both commands use the contents from the input file as an input to the 
 python script. 
 
